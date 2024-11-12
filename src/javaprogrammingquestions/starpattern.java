@@ -34,7 +34,7 @@ public class starpattern {
         
         scanner.close();  
     }
-}
+
 
 	}
 
